@@ -3,7 +3,7 @@ const input = process.argv;
 
 operator = input [2];
 let num1 = parseFloat(input [3]);
-let  num2 = parseFloat (input [4]);
+let  num2 = parseFloat(input [4]);
 
 switch (operator){
 case "add":
